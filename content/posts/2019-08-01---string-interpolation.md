@@ -173,14 +173,14 @@ Be careful with quotation marks when using f-strings. If you want to use a singl
 ```
 
 ```python
-You cannot use escape \ inside the value of dictionary in f-strings.
+# You cannot use escape \ inside the value of dictionary in f-strings.
 
     name = "Jason Mraz"
     job = "singer-songwriter"
     debut_album = "Jason Mraz Live & Acoustic 2001"
 
     Jason_Mraz = {'name': "Jason Mraz", 'job': "singer-songwriter"}
-    print(f"His name is {Jason_Mraz["\name"\]} and {Jason_Mraz["\job"\]}")
+    #print(f"His name is {Jason_Mraz["\name"\]} and {Jason_Mraz["\job"\]}")
 ```
 
 ---
