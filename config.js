@@ -3,11 +3,11 @@
 module.exports = {
   url: "https://jcs1910.github.io",
   pathPrefix: "/",
-  title: "Blog by John Doe",
-  subtitle: "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-  copyright: "© All rights reserved.",
+  title: "Blog by Chang-suk",
+  subtitle: "Chang-suk",
+  copyright: "",
   disqusShortname: "",
-  postsPerPage: 4,
+  postsPerPage: 8,
   googleAnalyticsId: "UA-73379983-2",
   useKatex: false,
   menu: [
@@ -18,23 +18,19 @@ module.exports = {
     {
       label: "About me",
       path: "/pages/about"
-    },
-    {
-      label: "Contact me",
-      path: "/pages/contacts"
     }
+    // {
+    //   label: "Contact me",
+    //   path: "/pages/contacts"
+    // }
   ],
   author: {
-    name: "John Doe",
-    photo: "/photo.jpg",
-    bio: "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    name: "Chang-suk",
+    photo: "media/profile.png",
+    bio: "software developer",
     contacts: {
-      email: "#",
-      telegram: "#",
-      twitter: "#",
-      github: "#",
-      rss: "#",
-      vkontakte: "#"
+      email: "jcs191072@gmail.com",
+      github: "/jcs1910"
     }
   }
 };

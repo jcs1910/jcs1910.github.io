@@ -3,3 +3,16 @@
 @import "variables";
 @import "mixins";
 @import "base";
+
+// 190809 css font 조정 (코드 블럭 조정을 위해)
+div code[class*="language-"],
+div pre[class*="language-"] {
+  font-size: 14px;
+}
+
+@media screen and (max-width: 600px) {
+  div code[class*="language-"],
+  div pre[class*="language-"] {
+    font-size: 12px;
+  }
+}
