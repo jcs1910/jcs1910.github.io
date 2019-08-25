@@ -4,14 +4,15 @@
 <url> <loc>https://jcs1910.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/posts/destructoring-assignment-spread-operator/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://jcs1910.github.io/posts/function(1)-python/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/posts/import-datetime/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jcs1910.github.io/posts/function(1)-python/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/posts/for-loop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://jcs1910.github.io/posts/http-request-response/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://jcs1910.github.io/posts/Command-npx-not-found-did-you-mean/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://jcs1910.github.io/posts/ubuntu-clear-read-only-status-issues/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://jcs1910.github.io/posts/removing-an-element-from-list/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/posts/string-interpolation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jcs1910.github.io/posts/removing-an-element-from-list/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jcs1910.github.io/posts/Command-npx-not-found-did-you-mean/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jcs1910.github.io/posts/create-react-app-settings/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jcs1910.github.io/posts/ubuntu-clear-read-only-status-issues/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jcs1910.github.io/posts/http-request-response/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/array-destructuring</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/concatenating-text-strings</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -30,6 +31,7 @@
 <url> <loc>https://jcs1910.github.io/tag/multiline-f-strings-and-line-break</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/npx</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jcs1910.github.io/tag/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/read-only-status-issues</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/request</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/response</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -37,6 +39,7 @@
 <url> <loc>https://jcs1910.github.io/tag/spread-operator</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/string-interpolation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/ubuntu</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jcs1910.github.io/tag/create-react-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/dictionary-unpacking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/npm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jcs1910.github.io/tag/stateless</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
