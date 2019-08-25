@@ -4,7 +4,7 @@ date: "2019-08-09T15:15:32.199Z"
 template: "post"
 draft: false
 slug: "/posts/Command-npx-not-found-did-you-mean/"
-category: "HTTP"
+category: "NPX"
 tags:
   - "NPX"
   - "Ubuntu"
