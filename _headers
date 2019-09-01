@@ -92,14 +92,6 @@
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-6c3fac4dd079fa7184b2.js>; rel=preload; as=script
-/posts/import-datetime/
-  Link: </webpack-runtime-cf4d3ab66a76cd59528f.js>; rel=preload; as=script
-  Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
-  Link: </app-14d30b4cda0c70b51aa1.js>; rel=preload; as=script
-  Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
-  Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
-  Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-59f0cb937f3a549ea55e.js>; rel=preload; as=script
 /posts/destructoring-assignment-spread-operator/
   Link: </webpack-runtime-cf4d3ab66a76cd59528f.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
@@ -116,7 +108,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-59f0cb937f3a549ea55e.js>; rel=preload; as=script
-/posts/function(1)-python/
+/posts/import-datetime/
   Link: </webpack-runtime-cf4d3ab66a76cd59528f.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-14d30b4cda0c70b51aa1.js>; rel=preload; as=script
@@ -124,7 +116,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-59f0cb937f3a549ea55e.js>; rel=preload; as=script
-/posts/for-loop/
+/posts/function(1)-python/
   Link: </webpack-runtime-cf4d3ab66a76cd59528f.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-14d30b4cda0c70b51aa1.js>; rel=preload; as=script
@@ -141,6 +133,14 @@
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-59f0cb937f3a549ea55e.js>; rel=preload; as=script
 /posts/ubuntu-clear-read-only-status-issues/
+  Link: </webpack-runtime-cf4d3ab66a76cd59528f.js>; rel=preload; as=script
+  Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
+  Link: </app-14d30b4cda0c70b51aa1.js>; rel=preload; as=script
+  Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
+  Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
+  Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-59f0cb937f3a549ea55e.js>; rel=preload; as=script
+/posts/for-loop/
   Link: </webpack-runtime-cf4d3ab66a76cd59528f.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-14d30b4cda0c70b51aa1.js>; rel=preload; as=script
