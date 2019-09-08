@@ -21,7 +21,7 @@ description: "JSON is an abbreviation of Javascript Object Notation"
 
 ### **1. JSON**
 
-JSON is an abbreviation of Javascript Object Notation. JSON allows for exchanging data between client(web browser) and server(web server) and is widely used due to its simplicity and flexibility. The most popular JSON format is a collection of Key-Value Pair.
+JSON is an abbreviation of Javascript Object N\$\$\$\$\$\$otation. JSON allows for exchanging data between client(web browser) and server(web server) and is widely used due to its simplicity and flexibility. The most popular JSON format is a collection of Key-Value Pair.
 
 Python has a built-in JSON library, which allows you to use the JSON libray using "import json". Converting the python formats to the JSON string is called JSON encoding and the opposite refer to JSON decoding.
 
