@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: EACCES: permission denied, rmdir '/home/jcs191072/Desktop/wecode/blog/node_modules/.cache/babel-loader'
+  Error: EACCES: permission denied, mkdir '/home/jcs191072/Desktop/wecode/blog/node_modules/prebuild-install/node_modules/simple-get'
 
 npm manifest: 
   {
