@@ -19,21 +19,31 @@ description: "This post illustrates how I was able to insert imagefile from my o
     <!-- <figcaption>Splendid</figcaption> -->
 </figure>
 
-This post illustrates how I was able to insert imagefile from my os to my database. Django provides a built-in class specifically for images. `django.core.files.images.ImageFile` inherits all the attributes and methods of File. When I open the Python shell, I have to import all the necessary files from my django project.
+This post illustrates how I was able to insert imagefile from my os to my database. Django provides a built-in class specifically for images. `from django.core.files.images import ImageFile` inherits all the attributes and methods of File. When I open the Python shell, I have to import all the necessary files from my django project.
 
-    from .models import*
-    from user.models import *
+```
+    ##import everything from my app models
+    from category.models import *
+    from users.models import *
+    from pins.models import *
+
+    #import necessary files to save local file images in my DB
+    from django.core.files.images.import ImageFile
+    from django.core.files import File
+```
 
 ## How to know/change current directory in Python shell?
 
 You can use the `os` module.
 
+```
     >>> import os
     >>> os.getcwd()  # check current path
     '/home/user'
     >>> os.chdir("/tmp/") #change current directory
     >>> os.getcwd()
     '/tmp'
+```
 
 1. My current path is
 
@@ -54,6 +64,7 @@ I thought my current path was `'/home/jcs191072/Desktop/wecode/pinterest-backend
 The right path is `'pins/test.png'` and I had to remove slash(/) to make it right.
 
 ```
+    >>> b = Category(name = 'animal')
     >>> b.background_img.save('test.png', File(open('pins/test.png', 'r')))
     Traceback (most recent call last):
       File "<console>", line 1, in <module>
