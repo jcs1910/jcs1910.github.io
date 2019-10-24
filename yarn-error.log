@@ -1,20 +1,20 @@
 Arguments: 
-  /usr/bin/node /usr/local/bin/yarn install
+  /usr/bin/node /usr/share/yarn/bin/yarn.js upgrade
 
 PATH: 
-  /home/jcs191072/miniconda3/bin:/home/jcs191072/miniconda3/condabin:/home/jcs191072/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /home/jeon/miniconda3/bin:/home/jeon/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
-  1.17.3
+  1.19.1
 
 Node version: 
-  8.10.0
+  12.11.1
 
 Platform: 
   linux x64
 
 Trace: 
-  Error: EACCES: permission denied, mkdir '/home/jcs191072/Desktop/wecode/blog/node_modules/prebuild-install/node_modules/simple-get'
+  Error: EACCES: permission denied, rmdir '/home/jeon/Desktop/wecode/blog/node_modules/.cache/terser-webpack-plugin/index-v5/29/f5'
 
 npm manifest: 
   {
