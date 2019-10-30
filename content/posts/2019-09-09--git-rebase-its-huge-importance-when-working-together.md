@@ -1,6 +1,6 @@
 ---
 title: "[Git] Git Rebase - its huge importance when working together"
-date: "2019-08-29T12:15:12.199Z"
+date: "2019-09-09T12:15:12.199Z"
 template: "post"
 draft: false
 slug: "/posts/git-rebase-its-huge-importance-when-working-together/"

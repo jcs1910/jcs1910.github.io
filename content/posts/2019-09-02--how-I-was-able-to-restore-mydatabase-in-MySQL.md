@@ -1,6 +1,6 @@
 ---
 title: "[MySQL] How I was able to restore my database in MYSQL after Ubuntu installation"
-date: "2019-08-26T19:35:11.199Z"
+date: "2019-09-02T19:35:11.199Z"
 template: "post"
 draft: false
 slug: "/posts/how-I-was-able-to-restore-mydatabase-in-MySQL/"
