@@ -7,7 +7,7 @@ module.exports = {
   subtitle: "Chang-suk",
   copyright: "",
   disqusShortname: "",
-  postsPerPage: 8,
+  postsPerPage: 4,
   googleAnalyticsId: "UA-73379983-2",
   useKatex: false,
   menu: [
